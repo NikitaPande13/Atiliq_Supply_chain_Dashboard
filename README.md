@@ -1,5 +1,3 @@
-# Atiliq_Supply_chain_Dashboard
-This is related to resume challange
 ## *AtliQ-_Mart_Supply_Chain_Analysis-FMCG-PowerBI*
 I have participated for the October month's challenge to solve business problems on AtliQ Mart Supply Chian issues.
 
